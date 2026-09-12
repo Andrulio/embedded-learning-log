@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "47c6774b1ee70041",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e12710bc16c88a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0153eee69ac1c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "esp-idf/watchdog-timer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "watchdog-timer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a4c609d1b633625",
+    "type": "split",
+    "children": [
+      {
+        "id": "e80bcceec578c9f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f84f4bf2b61ba5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04d06e637f2bb752",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94ddef5c5d916473",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a41c8ad2b6e531b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5716ffc9a2b06d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b390a56fedff444c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "esp-idf/watchdog-timer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d45f6e1482c55875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "esp-idf/watchdog-timer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "176682f3a9b3e206",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf7046b1aa7cfe1b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ead139e20108505f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "esp-idf/watchdog-timer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c0153eee69ac1c83",
+  "lastOpenFiles": [
+    "esp-idf/wifi-station-connect.md",
+    "esp-idf/ledc-crossfade-two-leds.md",
+    "esp-idf/traffic-light-3-leds.md",
+    "esp-idf/sos-morse-code.md",
+    "electronics/breadboard-debugging.md",
+    "esp-idf/gpio-blink-led.md",
+    "electronics/resistor-current-limiting.md",
+    "electronics/led-polarity.md",
+    "electronics/breadboard-basics.md"
+  ]
+}
