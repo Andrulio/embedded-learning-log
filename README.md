@@ -2,7 +2,7 @@
 
 My journey learning embedded development with ESP32 and ESP-IDF from zero.
 
-## Electronics (10)
+## Electronics (11)
 - [How a breadboard works](electronics/breadboard-basics.md)
 - [LED polarity](electronics/led-polarity.md)
 - [Why you need a resistor before an LED](electronics/resistor-current-limiting.md)
@@ -13,8 +13,9 @@ My journey learning embedded development with ESP32 and ESP-IDF from zero.
 - [SH1106 vs SSD1306 — horizontal addressing commands aren't universal](electronics/sh1106-vs-ssd1306-addressing.md)
 - [I2C pull-up resistors and loose breadboard contacts](electronics/i2c-pullup-resistors-loose-contacts.md)
 - [BH1750 light sensor — ADDR pin sets the I2C address](electronics/bh1750-i2c-address-pin.md)
+- [Replacing a burnt SOT-223 regulator with hot air](electronics/smd-regulator-replacement-hot-air.md)
 
-## ESP-IDF (8)
+## ESP-IDF (10)
 - [GPIO blink — first program](esp-idf/gpio-blink-led.md)
 - [Watchdog timer](esp-idf/watchdog-timer.md)
 - [PWM: gpio_set_level vs LEDC](esp-idf/pwm-vs-gpio-toggle.md)
@@ -23,6 +24,8 @@ My journey learning embedded development with ESP32 and ESP-IDF from zero.
 - [LEDC crossfade between two LEDs](esp-idf/ledc-crossfade-two-leds.md)
 - [WiFi Station mode — connecting to a network](esp-idf/wifi-station-connect.md)
 - [Knight Rider — PWM crossfade chase](esp-idf/knight-rider-ledc.md)
+- [Legacy ADC driver removed — use adc_oneshot](esp-idf/adc-oneshot-migration.md)
+- [Legacy I2C driver removed — use driver/i2c_master.h (bus + device handles)](esp-idf/i2c-master-driver-migration.md)
 
 ## Tools (2)
 - [ESP-IDF setup on Windows](tools/esp-idf-setup-windows.md)
